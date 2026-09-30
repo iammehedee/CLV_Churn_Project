@@ -40,14 +40,14 @@ The goal:
 11. Visualization: Correlation heatmap, RFM distribution plots, confusion matrix, SHAP summary plot
 
 ## Visual Results
-### Correlation Heatmap
-![Correlation Heatmap](Image/correlation_heatmap.png)
+### ROC Curve (Churn Model)
+![ROC Curve](image/rocurve.png)
 
-### Confusion Matrix (Churn Model)
-![Confusion Matrix](Image/confusion_matrix.png)
+### XGBoost CLV Model Plot
+![XGBoost CLV Model](image/XGBoost CLV Mode.png)
 
-### SHAP Feature Importance Plot
-![SHAP Summary Plot](Image/shap_importance.png)
+### XGBoost Extended Feature Plot
+![XGBoost Extended](image/xgboost extended.png)
 
 ## Model Performance
 > Tuned XGBoost Results
