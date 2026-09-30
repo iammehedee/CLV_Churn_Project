@@ -1,6 +1,7 @@
 # Customer Lifetime Value (CLV) & Customer Churn Prediction
 
-
+![XGBoost CLV Model](image/XGBoost%20CLV%20Mode.png)
+![XGBoost Extended](image/xgboost%20extended.png)
 
 
 
