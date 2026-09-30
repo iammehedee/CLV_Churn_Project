@@ -41,13 +41,16 @@ The goal:
 
 ## Visual Results
 ### ROC Curve (Churn Model)
-![ROC Curve](image/rocurve.png)
+![ROC Curve](image/roc_curve.png)
 
 ### XGBoost CLV Model Plot
-![XGBoost CLV Model](image/XGBoost CLV Mode.png)
+![XGBoost CLV Model](image/clv_model.png)
 
 ### XGBoost Extended Feature Plot
-![XGBoost Extended](image/xgboost extended.png)
+![XGBoost Extended](image/xgboost_extended.png)
+
+### XGBoost Plot
+![XGBoost Plot](image/xgboost_plot.png)
 
 ## Model Performance
 > Tuned XGBoost Results
